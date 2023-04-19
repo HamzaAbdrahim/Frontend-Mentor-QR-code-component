@@ -1,0 +1,27 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+.container {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    padding-left:10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+}
+.container .holder {
+    max-width: 270px;
+}
+.QR-code {
+    text-align: center;
+}
+.QR-code h2 {
+    color: hsl(218, 44%, 22%);
+}
+.QR-code p {
+   color: hsl(220, 15%, 55%) ;
+}
+.QR-code .QR-img {
+    width: 15rem;
+}
